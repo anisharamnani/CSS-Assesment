@@ -1,0 +1,54 @@
+HTML
+
+What does "semantic markup" mean?
+Semantic markup refers to content instead of meaning. 
+
+What does a doctype do? 
+DOCTYPE tells the browser which version of HTML the page uses.
+
+Explain what standards and standards bodies are and why they are important. 
+Standard bodies decide what to implement in large scale use and are important b/c they decide what different browser can render. 
+
+What are CSS3 and HTML5? How are they different from previous standards? Why is this important? 
+HTML5 is the final version of HTML. 
+CSS3 hs features incorporating JS and gradients. 
+
+CSS
+
+What does a CSS reset do and why is it useful? 
+CSS reset allows you render the page the way you want it to rendered.
+
+What is the box model?
+http://blurredcommandlines.tumblr.com/post/72099957929/im-definitely-a-madwoman-with-a-box
+
+What is the difference between a relative, fixed, absolute, and statically positioned element?
+relative-element near the relative-positioned element behave as if relative element is exactly where it should be
+fixed-element-element is in a spceific place
+absolute-element remains at a specifc place & close to the ancestor
+
+What is SASS and why do people use it? 
+SASS is a CSS compiler that permits nested styling. 
+
+Name one feature of SASS and explain why it is helpful.Nested styling allows you to not duplicate css code.
+
+Explain prototypal inheritance. 
+allows for methods that are defined by a porototype & the methods are inherent in that prototype
+
+What is a closure and how/why would you use one? 
+-closure is when a function is when a function w/in a function can access variables outside immediate scope.
+
+What is an anonymous function? Give a typical usecase for one.
+Anonymous functions are unnamed functions and are often used for events. 
+
+Describe the difference between
+function Person(){}
+a function defiition
+var person = Person()
+a function definition.
+var person = new Person() 
+a variable linked to a new instance of a person
+Explain hoisting.
+variables defined later in the doc can be referenced before that line in the code 
+What is the difference between === and ==? 
+=== definitely true
+== truthy =] 
