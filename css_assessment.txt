@@ -42,9 +42,9 @@ Anonymous functions are unnamed functions and are often used for events.
 
 Describe the difference between
 function Person(){}
-a function defiition
+a function definition
 var person = Person()
-a function definition.
+a function referred to as a vraible.
 var person = new Person() 
 a variable linked to a new instance of a person
 Explain hoisting.
